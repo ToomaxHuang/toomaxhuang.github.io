@@ -11,7 +11,7 @@ export default defineConfig({
   },
   define: {
     "process.env": {
-      "BASE_URL": "https://toomaxhuang.github.io/"
+      "BASE_URL": "/"
     }
   },
   resolve: {
